@@ -1,0 +1,14 @@
+TEST-RESULTS
+
+1. Testiranje sabiranja:
+   - Test za "4 + 5" uspešno je prošao. Rezultat je tačan.
+
+2. Testiranje prioritetnih operacija:
+   - Test za "10 + 5 * 4 + 3" je prošao.
+
+3. Testiranje greške u deljenju sa nulom:
+   - Test za "10 / 0" je uspešno obavio grešku.
+   - Ovaj test je potvrdio da kalkulator pravilno reaguje u situacijama kada dolazi do pokušaja deljenja sa nulom.
+
+4. Zapažanje:
+   - Funkcija za izračunavanje koristi jednostavne operacije i nema bezbednosnih problema sa korisničkim unosima.
